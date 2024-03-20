@@ -1,0 +1,71 @@
+#intro { background-color: #ffcc00; }
+#objective { background-color: #ff6699; }
+#qualifications { background-color: #99ccff; }
+#projects { background-color: #ff9966; }
+#skills { background-color: #66cc99; }
+#internship { background-color: #cc99ff; }
+#awards { background-color: #ff99cc; }
+#certifications { background-color: #99ff99; }
+#webinars { background-color: #ff6666; }
+#workshops { background-color: #99ffcc; }
+#activities { background-color: #ffcc99; }
+#hobbies { background-color: #99ffff; }
+
+#aboutme{
+  text-align: justify;
+
+}
+header {
+    background-color: lightcoral;
+    padding: 10px 0;
+}
+.para img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+}
+.para {
+  text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+#images {
+  display: flex;
+  justify-content: space-between;
+}
+#images a {
+  margin-right: 10px;
+}
+#images img {
+  height: 100px; 
+  width: auto; 
+  object-fit: contain; 
+}
+footer {
+  background-color: #1e88e5; 
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+.go{
+  color:darkblue;
+}
